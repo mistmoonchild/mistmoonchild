@@ -34,4 +34,4 @@ I build robust, scalable web applications with a focus on clean code and long-te
 I believe software should be a reliable tool that solves business problems, not a monument to over-engineering. I prioritize **clarity, speed, and autonomy.**
 
 ---
-📫 **Connect with me:** [LinkedIn](TVOJ_LINKEDIN_LINK)
+📫 **Connect with me:** [LinkedIn](https://linkedin.com/in/ilija-del-uzelac)
